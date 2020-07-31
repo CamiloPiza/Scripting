@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valores Extremos", "Valores Extremos\Valores Extremos.csproj", "{0998F3E5-C372-4473-A324-18650D268F01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0998F3E5-C372-4473-A324-18650D268F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0998F3E5-C372-4473-A324-18650D268F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0998F3E5-C372-4473-A324-18650D268F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0998F3E5-C372-4473-A324-18650D268F01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ED0F855-ED98-4BB7-9735-2030772F0F05}
+	EndGlobalSection
+EndGlobal
